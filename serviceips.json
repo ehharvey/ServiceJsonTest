@@ -1,0 +1,42 @@
+{
+  "assignments": {
+    "ip": "xxx.xxxx.xxxx.xxx",
+    "port": -1
+  },
+  "attendance": {
+    "ip": "xxx.xxxx.xxxx.xxx",
+    "port": -1
+  },
+  "calendar": {
+    "ip": "https://cscn73030-calendar-mocker.emil-h-harvey.workers.dev/",
+    "port": 443
+  },
+  "classlist": {
+    "ip": "https://cscn73030-classlist-mocker.emil-h-harvey.workers.dev/",
+    "port": 443
+  },
+  "grades": {
+    "ip": "xxx.xxxx.xxxx.xxx",
+    "port": -1
+  },
+  "groups": {
+    "ip": "xxx.xxxx.xxxx.xxx",
+    "port": -1
+  },
+  "rubrics": {
+    "ip": "xxx.xxxx.xxxx.xxx",
+    "port": -1
+  },
+  "quizzes": {
+    "ip": "xxx.xxxx.xxxx.xxx",
+    "port": -1
+  },
+  "surveys": {
+    "ip": "xxx.xxxx.xxxx.xxx",
+    "port": -1
+  },
+  "adminactivities": {
+    "ip": "https://cscn73030-adminprof-mocker.emil-h-harvey.workers.dev",
+    "port": 443
+  }
+}
