@@ -8,12 +8,12 @@
     "port": -1
   },
   "calendar": {
-    "ip": "http://172.17.0.3",
-    "port": 2000
+    "ip": "http://192.168.46.56",
+    "port": 5000
   },
   "classlist": {
-    "ip": "172.17.0.3",
-    "port": 2001
+    "ip": "192.168.46.56",
+    "port": 5001
   },
   "grades": {
     "ip": "xxx.xxxx.xxxx.xxx",
@@ -36,7 +36,7 @@
     "port": -1
   },
   "adminactivities": {
-    "ip": "http://172.17.0.3",
-    "port": 2002
+    "ip": "192.168.46.56",
+    "port": 5002
   }
 }
